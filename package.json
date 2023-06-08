@@ -164,7 +164,7 @@
     "start-server-and-test": "^1.14.0",
     "strip-ansi": "^7.0.1",
     "supertest": "^6.2.2",
-    "typescript": "^4.5.5"
+    "typescript": "^5.1.3"
   },
   "engines": {
     "node": ">=16.x"
